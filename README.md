@@ -223,6 +223,24 @@ p.note { display: none; }
 <a href="20250813_024.JPG" target="_blank"><img src="20250813_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250813_025.JPG" target="_blank"><img src="20250813_025.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+
+<br><br><br>
+
+<h2><span class="yellow">9日、11日と、また約4000km離れた四国松山から、無線つながりのメンバーが楽しそうな画像を送ってくれました<br>今回は３世代に渡る家族団欒の様子です</span></h2>
+<a href="20250812_001.jpg" target="_blank"><img src="20250812_001.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250812_002.jpg" target="_blank"><img src="20250812_002.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250812_003.jpg" target="_blank"><img src="20250812_003.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250812_004.jpg" target="_blank"><img src="20250812_004.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250812_005.jpg" target="_blank"><img src="20250812_005.jpg" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">元気なお孫さん達の動画<br>画像クリックで動画再生します↓</span></h2>
+<a href="https://youtube.com/shorts/hqhIgklKmfs?si=SdzN8rKMfFOeA_D1" target="_blank"><img src="20250812_006.png" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">動画は限定公開ですので、このHPからしか見えません</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcjyJ8XoyU8?si=jvE1KYpvfJR_JgZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <br><br><br><br><br><br><br><br><br>
 
 <!--<br><br>

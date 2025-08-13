@@ -169,7 +169,7 @@ p.note { display: none; }
 <a href="20250813_002.JPG" target="_blank"><img src="20250813_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250813_003.JPG" target="_blank"><img src="20250813_003.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">選択している間に昼食、トッピング盛り付けておかずはOK</span></h2>
+<h2><span class="yellow">洗濯している間に昼食、トッピング盛り付けておかずはOK</span></h2>
 <a href="20250813_004.JPG" target="_blank"><img src="20250813_004.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">花壇のお花が綺麗でした</span></h2>

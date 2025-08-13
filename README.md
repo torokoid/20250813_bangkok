@@ -163,7 +163,7 @@ p.note { display: none; }
 <div class="media-container">
  
 <h2><span class="yellow">11日、車道をうろつくトカゲの子供、すでに30cm以上の長さ、日本の野良猫みたいな感じです<br>画像クリックで動画再生します↓</span></h2>
-<a href="20250813_001.MOV" target="_blank"><img src="20250813_001.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250811_001.MOV" target="_blank"><img src="20250813_001.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">近くのガソリンスタンドに併設されたコインランドリー、白人さんたちはこのエリアで昼食</span></h2>
 <a href="20250813_002.JPG" target="_blank"><img src="20250813_002.JPG" alt="サンプル画像" class="responsive-media"></a>

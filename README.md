@@ -203,7 +203,7 @@ p.note { display: none; }
 <h2><span class="yellow">注文用紙もタイ語</span></h2>
 <a href="20250813_015.JPG" target="_blank"><img src="20250813_015.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">結局これになりましたが、けっこうなお味でした</span></h2>
+<h2><span class="yellow">結局これになりましたが、けっこう美味しいお味でした</span></h2>
 <a href="20250813_016.JPG" target="_blank"><img src="20250813_016.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250813_017.JPG" target="_blank"><img src="20250813_017.JPG" alt="サンプル画像" class="responsive-media"></a>
     
